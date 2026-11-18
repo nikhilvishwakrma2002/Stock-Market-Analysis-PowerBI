@@ -1,0 +1,5 @@
+# Treat Office and Power BI files as binary in Git.
+*.pbix binary
+*.pbit binary
+*.xlsx binary
+*.xlsm binary
